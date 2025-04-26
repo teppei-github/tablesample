@@ -1,6 +1,7 @@
 section {
   max-width: 780px;
   margin: 1rem auto;
+  padding: 1rem;
 }
 
 table {
@@ -9,6 +10,9 @@ table {
   border-spacing: 0 1rem;
 }
 
+th {
+  white-space: nowrap;
+}
 th,
 td {
   padding: 1rem;
